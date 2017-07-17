@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoWithMeDriver</string>
+    <string name="title_activity_booking">BookingActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_go_with_me">Go with me </string>
+    <string name="text_price">Price : Rp 0</string>
+
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jeje/.android/build-cache/577ebe709e3a7d5f98f22a22ffb2f0a5dcf8843a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/jeje/GoWithMe-Driver/app/build/intermediates/pre-dexed/debug/classes_8df79415fdd70363cdbc3a25609bc0801593f873.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeje/.android/build-cache/aa9988281b4163d4139e7f843c0268922c619642/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="/Users/jeje/GoWithMeDriver/app/build/intermediates/pre-dexed/debug/classes_3ea2964214223fbfe4f84df99d2ee12f0f074813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeje/.android/build-cache/cbbe61bb1ae01c003cc348e50a9265efb14f262f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/jeje/GoWithMe-Driver/app/build/intermediates/pre-dexed/debug/classes_c15613531b6513b9cd9bd49a002abb13e13f0e58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeje/.android/build-cache/49a890cc86505cf5dfb85ce13021998b3c0fff8f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="/Users/jeje/GoWithMeDriver/app/build/intermediates/pre-dexed/debug/classes_ed747676a9831a78446b4eb1c4fc84c8da51b3b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeje/.android/build-cache/1df1c7685ad8c7e008c9e25625f265497909c569/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/jeje/GoWithMe-Driver/app/build/intermediates/pre-dexed/debug/classes_15ba44f8256c43030045aa11274752d79fbc78cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jeje/.android/build-cache/d894d648d02d43a9eb260f0ab0ad1bec045460f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/jeje/GoWithMe-Driver/app/build/intermediates/pre-dexed/debug/classes_bfe57dec8cf84cba5859be7d2d4bb46f3f94bf96.jar" />
+    </item>
+
+</items>
